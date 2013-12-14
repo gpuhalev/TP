@@ -1,0 +1,29 @@
+package com.example.victwo;
+
+import com.elsys.vicnote.R;
+
+import android.app.Activity;    
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.ImageView;
+
+public class ImageViewClass extends Activity{
+
+  /*  
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.image_viewer);
+        showImage(photo);        
+
+    }
+
+    private void showImage(File photo) {
+
+        ImageView imgView = (ImageView) findViewById(R.id.myimage);             
+        imgView.setImageResource(photo);       
+
+    }*/
+}
